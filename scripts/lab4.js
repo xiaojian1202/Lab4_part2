@@ -35,5 +35,5 @@ function discountPrices(prices, discount) {
 
     return discounted;
 }
-//screenshot for merge
+
 module.exports = {sumValues, discountPrices};
